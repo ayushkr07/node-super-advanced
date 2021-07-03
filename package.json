@@ -1,0 +1,17 @@
+{
+  "name": "node-basic-app",
+  "version": "1.0.0",
+  "description": "A repo for node features",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "webapplication"
+  ],
+  "author": "AyushKumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
